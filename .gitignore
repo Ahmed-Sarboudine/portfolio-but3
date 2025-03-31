@@ -1,0 +1,14 @@
+# Ignore les fichiers temporaires
+*.log
+*.tmp
+
+
+# Ignore le dossier node_modules
+node_modules/
+
+# Ignore les fichiers de configuration perso
+.env
+
+# Ignore les fichiers compilés
+*.class
+*.pyc
