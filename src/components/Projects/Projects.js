@@ -61,7 +61,6 @@ function Projects() {
                                     desc={project.projectDesc}
                                     tags={project.tags}
                                     code={project.code}
-                                    demo={project.demo}
                                     image={project.image}
                                 />
                             ))}
@@ -71,7 +70,7 @@ function Projects() {
                             <div className="projects--viewAll">
                                 <Link to="/projects">
                                     <button className={classes.viewAllBtn}>
-                                        View All
+                                        Voir tous
                                         <HiArrowRight className={classes.viewArr} />
                                     </button>
                                 </Link>

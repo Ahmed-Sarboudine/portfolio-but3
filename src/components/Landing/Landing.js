@@ -108,7 +108,7 @@ function Landing() {
                     alt=''
                     className='landing--img'
                     style={{
-                        opacity: `${drawerOpen ? '0' : '1'}`,
+                        //opacity: `${drawerOpen ? '0' : '1'}`,
                         borderColor: theme.secondary,
                     }}
                 />
@@ -133,7 +133,7 @@ function Landing() {
                                     rel='noreferrer'
                                 >
                                     <Button className={classes.resumeBtn}>
-                                        Download CV
+                                        Mon CV
                                     </Button>
                                 </a>
                             )}

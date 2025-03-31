@@ -109,7 +109,7 @@ function Navbar() {
         drawerLinks: {
             fontFamily: 'var(--primaryFont)',
             width: '50%',
-            fontSize: '1.3rem',
+            fontSize: '1rem',
             fontWeight: 600,
             [t.breakpoints.down('sm')]: {
                 fontSize: '1.125rem',
@@ -209,7 +209,7 @@ function Navbar() {
                                 <div className={classes.drawerItem}>
                                     <FaUser className={classes.drawerIcon} />
                                     <span className={classes.drawerLinks}>
-                                        À PROPOS
+                                        À Propos
                                     </span>
                                 </div>
                             </NavLink>
@@ -227,7 +227,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        FORMATIONS
+                                        Formations
                                     </span>
                                 </div>
                             </NavLink>
@@ -245,7 +245,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        COMPETENCE
+                                        Skills
                                     </span>
                                 </div>
                             </NavLink>
