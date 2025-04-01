@@ -21,7 +21,6 @@ function BlogPage() {
         return content.toLowerCase().includes(search.toLowerCase())
     })
 
-
     const useStyles = makeStyles((t) => ({
         search : {
             color: theme.tertiary, 

@@ -2,7 +2,7 @@ export const softSkillsData = [
     {
         id: 1,
         skillName: 'Réaliser',
-        description:'Concevoir,Coder, tester et intégrer une solution informatique',
+        description:'Concevoir,coder, tester et intégrer une solution informatique',
     },
     {
         id: 2,
