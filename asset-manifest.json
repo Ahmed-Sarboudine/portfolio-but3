@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio-but3/static/css/main.a094735e.chunk.css",
-    "main.js": "/portfolio-but3/static/js/main.57989982.chunk.js",
-    "main.js.map": "/portfolio-but3/static/js/main.57989982.chunk.js.map",
-    "runtime-main.js": "/portfolio-but3/static/js/runtime-main.346feca0.js",
-    "runtime-main.js.map": "/portfolio-but3/static/js/runtime-main.346feca0.js.map",
+    "main.js": "/portfolio-but3/static/js/main.96628023.chunk.js",
+    "main.js.map": "/portfolio-but3/static/js/main.96628023.chunk.js.map",
+    "runtime-main.js": "/portfolio-but3/static/js/runtime-main.dc059005.js",
+    "runtime-main.js.map": "/portfolio-but3/static/js/runtime-main.dc059005.js.map",
     "static/css/2.84bb4a8a.chunk.css": "/portfolio-but3/static/css/2.84bb4a8a.chunk.css",
-    "static/js/2.95c0aed9.chunk.js": "/portfolio-but3/static/js/2.95c0aed9.chunk.js",
-    "static/js/2.95c0aed9.chunk.js.map": "/portfolio-but3/static/js/2.95c0aed9.chunk.js.map",
-    "static/js/3.b247e7af.chunk.js": "/portfolio-but3/static/js/3.b247e7af.chunk.js",
-    "static/js/3.b247e7af.chunk.js.map": "/portfolio-but3/static/js/3.b247e7af.chunk.js.map",
+    "static/js/2.f5c1ff51.chunk.js": "/portfolio-but3/static/js/2.f5c1ff51.chunk.js",
+    "static/js/2.f5c1ff51.chunk.js.map": "/portfolio-but3/static/js/2.f5c1ff51.chunk.js.map",
+    "static/js/3.70ab80df.chunk.js": "/portfolio-but3/static/js/3.70ab80df.chunk.js",
+    "static/js/3.70ab80df.chunk.js.map": "/portfolio-but3/static/js/3.70ab80df.chunk.js.map",
     "index.html": "/portfolio-but3/index.html",
     "static/css/2.84bb4a8a.chunk.css.map": "/portfolio-but3/static/css/2.84bb4a8a.chunk.css.map",
     "static/css/main.a094735e.chunk.css.map": "/portfolio-but3/static/css/main.a094735e.chunk.css.map",
-    "static/js/2.95c0aed9.chunk.js.LICENSE.txt": "/portfolio-but3/static/js/2.95c0aed9.chunk.js.LICENSE.txt",
+    "static/js/2.f5c1ff51.chunk.js.LICENSE.txt": "/portfolio-but3/static/js/2.f5c1ff51.chunk.js.LICENSE.txt",
     "static/media/BANKLINK.2b4b2d37.png": "/portfolio-but3/static/media/BANKLINK.2b4b2d37.png",
     "static/media/index.css": "/portfolio-but3/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/MakeTheCub.a7885a9f.png": "/portfolio-but3/static/media/MakeTheCub.a7885a9f.png",
@@ -153,10 +153,10 @@
     "static/media/yellowTheme-girl.641f7b0b.svg": "/portfolio-but3/static/media/yellowTheme-girl.641f7b0b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.346feca0.js",
+    "static/js/runtime-main.dc059005.js",
     "static/css/2.84bb4a8a.chunk.css",
-    "static/js/2.95c0aed9.chunk.js",
+    "static/js/2.f5c1ff51.chunk.js",
     "static/css/main.a094735e.chunk.css",
-    "static/js/main.57989982.chunk.js"
+    "static/js/main.96628023.chunk.js"
   ]
 }
